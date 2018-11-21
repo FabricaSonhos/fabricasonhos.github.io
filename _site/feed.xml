@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Clean portfolio theme for Jekyll powered by Bootstrap 4.</title>
+    <title>Fabrica de Sonhos.</title>
     <description>New Site
 </description>
     <link>http://example.com/</link>
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Nov 2018 19:56:02 -0200</pubDate>
-    <lastBuildDate>Tue, 20 Nov 2018 19:56:02 -0200</lastBuildDate>
+    <pubDate>Wed, 21 Nov 2018 02:22:25 -0200</pubDate>
+    <lastBuildDate>Wed, 21 Nov 2018 02:22:25 -0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>

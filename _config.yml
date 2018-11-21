@@ -1,14 +1,14 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+title: Fabrica de Sonhos.
 email: fabricarsonho@gmail.com
-brand: Fabrica de Sonhos
-headline: 1 ano Fabricando seu Sonho!
+brand: Fabrica de Sonhos.
+headline: Aqui você sonha e nós realizamos! ❤️
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+copyright: Oracy
 
 # Build settings
 markdown: kramdown
